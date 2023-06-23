@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="pay_expectation_options">
+        <item>/day</item>
+        <item>/week</item>
+        <item>/month</item>
+    </string-array>
+</resources>
